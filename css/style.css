@@ -492,8 +492,17 @@ textarea{
         width: 250px;
     }
 
-    .icon{
-        display: flex; 
+    .media{
+        display: flex;
     }
+    
+    .icon{
+        display: flex;
+    }
+
+    .follow h5{
+        font-size: 20px;
+        display: flex;
+        margin-right: 30px;
     
 }
