@@ -491,5 +491,9 @@ textarea{
         margin-left: -50px;
         width: 250px;
     }
+
+    .icon{
+        display: flex; 
+    }
     
 }
