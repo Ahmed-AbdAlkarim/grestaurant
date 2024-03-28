@@ -489,20 +489,30 @@ textarea{
 
     form{
         margin-left: -50px;
-        width: 250px;
+        width: 300px;
     }
 
     .media{
-        display: flex;
+        
+        flex-direction: column;
+        
     }
     
     .icon{
         display: flex;
     }
 
+    .facebook{
+        margin-left: 35px;
+
+    }
+
     .follow h5{
-        font-size: 20px;
+        font-size: 25px;
         display: flex;
-        margin-right: 30px;
+        flex-direction: row;
+        margin-left: 55px;
+        width: 200px;
+    }
     
 }
